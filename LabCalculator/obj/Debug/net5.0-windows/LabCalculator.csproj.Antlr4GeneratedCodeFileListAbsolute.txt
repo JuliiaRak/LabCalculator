@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\LabCalculator\LabCalculator\obj\Debug\net5.0-windows\LabCalculatorLexer.cs
+\\Mac\Home\Desktop\LabCalculator\LabCalculator\obj\Debug\net5.0-windows\LabCalculatorParser.cs
+\\Mac\Home\Desktop\LabCalculator\LabCalculator\obj\Debug\net5.0-windows\LabCalculatorListener.cs
+\\Mac\Home\Desktop\LabCalculator\LabCalculator\obj\Debug\net5.0-windows\LabCalculatorBaseListener.cs
+\\Mac\Home\Desktop\LabCalculator\LabCalculator\obj\Debug\net5.0-windows\LabCalculatorVisitor.cs
+\\Mac\Home\Desktop\LabCalculator\LabCalculator\obj\Debug\net5.0-windows\LabCalculatorBaseVisitor.cs
